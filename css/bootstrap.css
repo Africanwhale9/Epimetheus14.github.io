@@ -11,6 +11,7 @@ html {
 }
 body {
   margin: 0;
+
 }
 article,
 aside,
@@ -84,7 +85,7 @@ sub {
   bottom: -.25em;
 }
 img {
-  border: 0;
+  border: 0px;
 }
 svg:not(:root) {
   overflow: hidden;
